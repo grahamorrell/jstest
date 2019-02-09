@@ -1,9 +1,17 @@
 {
-  "posts": [
+  "projects": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "still_needed": 167,
+      "days_remaining": 3,
+      "donors": 42
+    },
+    {
+      "id": 2,
+      "still_needed": 199,
+      "days_remaining": 5,
+      "donors": 17
+    } 
   ],
   "profile": {
     "name": "typicode"
